@@ -1,7 +1,3 @@
-
-8e9e4588-0b07-425e-afda-634d7bc22b31
-be8485c5e3f7daf3e5f7f76ef6093b57e71a735a4af445a5f3afb9c6431cbbd5
-
 # Coding with an AI pair programmer
 
 [GitHub Copilot](https://github.com/features/copilot) is your AI pair programmer, built to support you throughout your development experience. As with any new tool, using GitHub Copilot requires learning a few new skills. This project is built to do exactly that, to give you an opportunity to build a project, using the language and tools you typically use, with GitHub Copilot.
